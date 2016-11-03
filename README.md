@@ -6,3 +6,6 @@ npm install
 
 启动服务
 npm start
+
+
+http://localhost:3000/
