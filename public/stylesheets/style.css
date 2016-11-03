@@ -1,0 +1,13 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+*{margin: 0;padding: 0;}
+
+.listBox{}
+	.listBox ul{list-style: none;}
+	.listBox ul li{margin: 10px;}
+	.pcon{line-height: 25px;}
+	a{text-decoration: none;}
+	a:hover{color: red;}
+	
